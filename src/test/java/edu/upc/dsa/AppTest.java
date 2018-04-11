@@ -1,4 +1,4 @@
-package edu.upc.dsa.examen;
+package edu.upc.dsa;
 
 import static org.junit.Assert.assertTrue;
 
